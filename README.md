@@ -5,6 +5,4 @@
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api?username=edge555&show_icons=true&locale=en"/></p>
   
 
-- 🌱 I’m currently learning **Machine Learning**
-
 - 💬 Ask me about **C, C++, Java, Python**
